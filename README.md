@@ -34,3 +34,14 @@ Układ klapki jest dość interesujący. Dużo się dzieje, jeśli chodzi o to, 
 Sterownik wyjściowy jest dość prosty. Składa się z dwóch tranzystorów, z sygnałem do jednego odwróconego tak, że kiedy jeden jest włączony, drugi jest wyłączony. Dzięki temu wyjście może pracować w trybie push-pull. Oznacza to, że wyjście może być źródłem prądu, wyjście jest zwarte do Vcc, kiedy jest wysokie i tonie, wyjście jest zwarte do masy, kiedy jest niskie. 
 
 ## Opis części sprzętowej
+Cały projekt został wykonany w programie Eagle natomiast po testach, płytka soatała zlecoa firmie JLPcb
+<p align=middle>
+    <img src="https://github.com/olszes291/NE555/blob/main/sch_discrete.jpg">
+</p>
+
+<p align=middle>
+    <img src="https://github.com/olszes291/NE555/blob/main/brd_discrete.jpg">
+</p>
+
+## Uruchomienie i testy
+Jako ukad testowy przygotowaem małe pianino któe współpracuje z układem NE555 i 
