@@ -1,4 +1,4 @@
-# NE555
+# UKŁAD DYSKRETNY NE555
 Układ przedstawia Przerzutnik Ne555 W dyskretnej formie. Projekt jest na zaliczenie z konstrukcji urządzeń elektronicznych
 ## Wstęp (abstract)
 Zegar 555. Chip tak uniwersalny, że był używany we wszystkim, od zabawek po statki kosmiczne. Układ, który może działać jako oscylator, wyzwalacz impulsowy, sterownik PWM, syrena/alarm, detektor światła lub ciemności i wiele innych. Jest to najpopularniejszy układ scalony wszech czasów, który istnieje od 1971 roku i obecnie sprzedaje się na ponad 1 miliard rocznie.
