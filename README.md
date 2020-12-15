@@ -42,6 +42,7 @@ Cały projekt został wykonany w programie Eagle natomiast po testach, płytka s
 <p align=middle>
     <img src="https://github.com/olszes291/NE555/blob/main/sch_discrete.jpg">
 </p>
+
 ### Płytka układu dyskretnego:
 
 <p align=middle>
