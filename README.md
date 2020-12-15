@@ -35,13 +35,24 @@ Sterownik wyjściowy jest dość prosty. Składa się z dwóch tranzystorów, z 
 
 ## Opis części sprzętowej
 Cały projekt został wykonany w programie Eagle natomiast po testach, płytka soatała zlecoa firmie JLPcb
+#Schemat układu dyskretnego
 <p align=middle>
     <img src="https://github.com/olszes291/NE555/blob/main/sch_discrete.jpg">
 </p>
-
+#Płytka układu dyskretnego
 <p align=middle>
     <img src="https://github.com/olszes291/NE555/blob/main/brd_discrete.jpg">
 </p>
 
+Pianino wykonałem i zleciłem w takiej samej Formie:
+#Schemat pianina
+<p align=middle>
+    <img src="https://github.com/olszes291/NE555/blob/main/sch_PIANO.jpg">
+</p>
+#Płytka pianina
+<p align=middle>
+    <img src="https://github.com/olszes291/NE555/blob/main/brd_PIANO.jpg">
+</p>
 ## Uruchomienie i testy
 Jako ukad testowy przygotowaem małe pianino któe współpracuje z układem NE555 i 
+## WNIOSKI
