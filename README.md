@@ -15,7 +15,7 @@ Jeśli lubisz pracować z elektroniką, zwłaszcza z chlebem, to powinien to by�
 
 
 <p align=middle>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/NE555_Bloc_Diagram.svg">
+    <img src="https://www.circuitstoday.com/wp-content/uploads/2009/09/555-IC-Timer-Block-Diagram.jpg">
 </p>
 
 Więc co do cholery dzieje się wewnątrz zegara 555? Cóż, oto kilka schematów z arkusza danych National Semiconductor, aby pomóc to wyjaśnić.
