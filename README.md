@@ -24,8 +24,6 @@ To jest podstawowa teoria działania:
 Gdy napięcie wyzwalania spadnie poniżej 1/3 Vcc (napięcie odniesienia) komparator ustawia klapkę, która ściąga wyjście wysoko i wyłącza rozładowanie. Gdy próg wychyla się powyżej 2/3 Vcc (napięcie referencyjne) komparator resetuje klapkę, która ściąga wyjście nisko i wyłącza wyładowanie. Ta podstawowa operacja pozwala na pracę zegara 555 na różne sposoby w różnych konfiguracjach.
 
 
-Układ klapki jest dość interesujący. Dużo się dzieje, jeśli chodzi o to, co jest tylko japonką SR z drugim resetem siły. To może być zrobione z 3 tranzystorami, więc wyrzuciłem ten układ i zrobiłem swój własny.
-
 Sterownik wyjściowy jest dość prosty. Składa się z dwóch tranzystorów, z sygnałem do jednego odwróconego tak, że kiedy jeden jest włączony, drugi jest wyłączony. Dzięki temu wyjście może pracować w trybie push-pull. Oznacza to, że wyjście może być źródłem prądu, wyjście jest zwarte do Vcc, kiedy jest wysokie i tonie, wyjście jest zwarte do masy, kiedy jest niskie. 
 
 ## Opis części sprzętowej
